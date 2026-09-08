@@ -14,7 +14,7 @@ Dự án backend đơn giản cho một website xem phim, cung cấp các API RE
 - like, dislike phim
 - Bình luận và đánh giá phim (tách riêng)
 - like, dislike, trả lời bình luận
-- Thêm / sửa / xoá phim (chỉ dành cho tài khoản admin: tk: admin, mk:admin)
+- Thêm / sửa / xoá phim (chỉ dành cho tài khoản admin)
 - Quản lý thể loại phim (genre)
   - Thêm / sửa / xoá thể loại (admin)
   - Lọc phim theo thể loại
