@@ -1,5 +1,5 @@
 ---
-Test api: https://be-k3g5.onrender.com/ (test admin: tk:admin, mk:admin)
+Test api: https://be-k3g5.onrender.com/
 Link demo:  https://movie-web-tttn.onrender.com/
 ---
 
